@@ -2,7 +2,7 @@
 
 ## CS 539 Machine Learning Project
 
-![alt text](images/pid.jpg)
+![alt text](pid.jpg)
 
 - Tuning parameters of Kp Ki Kd is exhaustive and non trivial so we train a LSTM model so that we can emulate PID and completely and replace it 
 
