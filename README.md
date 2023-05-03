@@ -4,7 +4,7 @@
 
 ![alt text](images/pid.jpg)
 
-- Tuning parameters of Kp Ki Kd is exhuastive and non trivial so we train a LSTM model so that we can emulate PID and completely and replace it 
+- Tuning parameters of Kp Ki Kd is exhaustive and non trivial so we train a LSTM model so that we can emulate PID and completely and replace it 
 
 - Please find requirements.txt for dependencies. 
 
