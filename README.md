@@ -17,6 +17,8 @@
 ![alt text](pid_controller.gif)
 
 The graph looks like this:
+
+
 ![alt text](results/training_values.png)
 
 - To train the LSTM network use python3 train_pid.py
